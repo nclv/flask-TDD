@@ -1,5 +1,4 @@
-# flaskr
-From https://github.com/mjhea0/flaskr-tdd
+# [flaskr](https://github.com/mjhea0/flaskr-tdd)
 
 ```bash
 $ python3.8 -m pip install pipenv
